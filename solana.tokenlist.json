@@ -63,11 +63,11 @@
   "tokens": [
     {
       "chainId": 101,
-      "address": "DdUm3gHS5nnB3XKnxEufnazb5ERa9vHjK6S3DgZi7QR5",
-      "symbol": "BTSL",
-      "name": "Bitsol Finance",
+      "address": "61wDiLWr7uy6xp586PTzAXA64YiXNuXf",
+      "symbol": "BCOT",
+      "name": "BEACOT",
       "decimals": 9,
-      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DdUm3gHS5nnB3XKnxEufnazb5ERa9vHjK6S3DgZi7QR5/logo.png",
+      "logoURI": "https://cdn.jsdelivr.net/gh/ashwinshetttty/testsolana@main/logo.jpg",
       "tags": [
         "DEX"
       ],
